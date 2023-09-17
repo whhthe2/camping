@@ -2,22 +2,22 @@
 gear checklist for going car camping
 
 ## shelter
-[ ] tarp
-[ ] tent
-[ ] air mattresses
-[ ] mattress pads
-[ ] mattress pump
-[ ] 4x D-cell Batteries
-[ ] sleeping bags
-[ ] pillows
-[ ] tent light
-[ ] head lamps
-[ ] lantern
-[ ] mat for tent entrance
-[ ] comfort shoes
-[ ] small broom
-[ ] mallett 
-[ ] latrine shovel
+-[ ] tarp
+-[ ] tent
+-[ ] air mattresses
+-[ ] mattress pads
+-[ ] mattress pump
+-[ ] 4x D-cell Batteries
+-[ ] sleeping bags
+-[ ] pillows
+-[ ] tent light
+-[ ] head lamps
+-[ ] lantern
+-[ ] mat for tent entrance
+-[ ] comfort shoes
+-[ ] small broom
+-[ ] mallett 
+-[ ] latrine shovel
 
 ## cooking
 [ ] grill mitt
