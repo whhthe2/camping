@@ -1,7 +1,9 @@
 # camping
+
 gear checklist for going car camping
 
 ## shelter
+
 - [ ] tarp
 - [ ] tent
 - [ ] air mattresses
@@ -20,6 +22,7 @@ gear checklist for going car camping
 - [ ] latrine shovel
 
 ## cooking
+
 - [ ] grill mitt
 - [ ] towels
 - [ ] campsuds soap
@@ -28,12 +31,30 @@ gear checklist for going car camping
 - [ ] garbage bags
 - [ ] ziplock bags
 - [ ] rubber bands
+- [ ] cast iron pan
+- [ ] camp dutch oven
+- [ ] coffee percolator
+- [ ] measuring cup
+- [ ] measuring spoons
+- [ ] can opener
+- [ ] knife
+- [ ] cutting board
+- [ ] tupporware
+- [ ] cooler
+- [ ] plates
+- [ ] bowls
+- [ ] forks and spoons
+- [ ] mugs
+- [ ] water bottles
 
 ## fuel
+
 - [ ] chimney starter
 - [ ] charcoal
 - [ ] newspaper
+
 --and/or--
+
 - [ ] coleman camp stove
 - [ ] propane canister
 
